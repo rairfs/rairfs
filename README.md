@@ -6,7 +6,7 @@
 - 📫 How to reach me: / Como me contactar:
   <div> 
   <a href="https://www.linkedin.com/in/rairfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:rairafaelss@gmail.com"><img src="https://drive.google.com/file/d/16oHSQE2bUlnXMr5YXigwt285SV_4k3Ig/view?usp=sharing" target="_blank"></a>
+  <a href="mailto:rairafaelss@gmail.com"><img src="https://cdn.tecmasters.com.br/wp-content/uploads/2021/05/gmail.jpg" target="_blank"></a>
 </div>
 
 <div style="display: flex">
